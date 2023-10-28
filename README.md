@@ -2,7 +2,7 @@
 It is the game which will help you to invest your mind and make it sharper.
 
 # How to Play
--> you are provided with four diffrent colors,
+-> you are provided with four diffrent colors.
 -> You have to press any key to start the game.
 -> one of the color will flash in every new level.
 -> you have to click every color starting from level one to your present level.
